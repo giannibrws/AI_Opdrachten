@@ -1,2 +1,2 @@
 # AI_Opdrachten
-Opdrachten voor het vak Artificial Intelligence komen hier
+Opdrachten voor het 3e jaars keuzevak Artificial Intelligence
